@@ -1,4 +1,4 @@
-﻿---
+---
 name: huochepiao-hongbao
 slug: huochepiao-hongbao
 displayName: 火车票红包助手
